@@ -1,0 +1,32 @@
+[
+  {
+    "company": "Self Employed",
+    "role": "Full Stack Developer",
+    "date": "Oct 2021 - 2022",
+    "side": "left"
+  },
+  {
+    "company": "NXT WAVE",
+    "role": "Ccbp 2021 Contributor | Source Program",
+    "date": "July 2021 - October 2021",
+    "side": "right"
+  },
+  {
+    "company": "Bharth Intern",
+    "role": "Full Stack Developer | Internship",
+    "date": "June 2021 - August 2021",
+    "side": "left"
+  },
+  {
+    "company": "Plasmid",
+    "role": "Web Developer | Internship",
+    "date": "June 2021 - Dec 2021",
+    "side": "right"
+  },
+  {
+    "company": "Hackthon",
+    "role": "college Contributor | Open Source Program",
+    "date": "October 2022 - November 2022",
+    "side": "left"
+  }
+]
