@@ -1,0 +1,62 @@
+[
+  {
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/color/48/html-5--v1.png",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+  },
+  {
+    "name": "CSS3",
+    "icon": "https://img.icons8.com/color/48/css3.png",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/color/48/javascript--v1.png",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  },
+  {
+    "name": "ReactJS",
+    "icon": "https://img.icons8.com/color/48/react-native.png",
+    "url": "https://react.dev/"
+  },
+  {
+    "name": "NodeJS",
+    "icon": "https://img.icons8.com/color/48/nodejs.png",
+    "url": "https://nodejs.org/en/docs"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "https://img.icons8.com/color/48/bootstrap.png",
+    "url": "https://getbootstrap.com/docs/"
+  },
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/color/48/python--v1.png",
+    "url": "https://www.python.org/doc/"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "https://img.icons8.com/color/48/mongodb.png",
+    "url": "https://www.mongodb.com/docs/"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://img.icons8.com/color/48/mysql-logo.png",
+    "url": "https://dev.mysql.com/doc/"
+  },
+  {
+    "name": "Git",
+    "icon": "https://img.icons8.com/color/48/git.png",
+    "url": "https://git-scm.com/doc"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png",
+    "url": "https://docs.github.com/en"
+  },
+  {
+    "name": "VS Code",
+    "icon": "https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000",
+    "url": "https://code.visualstudio.com/docs"
+  }
+]
